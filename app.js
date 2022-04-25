@@ -1,5 +1,8 @@
 const read = require('readline-sync')
 const buscarLivros = require('./controllers/buscarLivros')
+const listarLivrosNaoLidos = require('./controllers/listarLivrosNaoLidos')
+const listarRecomendados = require('./controllers/listarRecomendados')
+const listarLivrosOrdenados = require('./controllers/listarLivrosOrdenados')
 
 const resposta = read.question(` 
 ====================== Menu ===========================
@@ -22,8 +25,13 @@ switch(resposta) {
         buscarLivros() //chamar a função buscarLivros
         break
     case '2':
-        //chamar funçao listarLivrosOrdenados
+        listarLivrosOrdenados() //chamar funçao livrosOrdenados
         break
+    case '3':
+        listarRecomendados() //chamar função listarRecomendados
+        break
+    case '4':
+        listarLivrosNaoLidos() //chamar função listarLivrosNaoLidos
     default:
         console.log('fim do algoritmo')
         break

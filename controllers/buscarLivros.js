@@ -19,7 +19,9 @@ const buscarLivros = () => {
            const livrosFiltrados = livros.filter(livro => livro.categoria === inputCategoria)
         console.table(livrosFiltrados)
         }
-    }  
-}
+    } else {
+        console.log('fim do algoritmo')
+    }
+ }  
 
 module.exports = buscarLivros
