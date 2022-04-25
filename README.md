@@ -1,6 +1,6 @@
 # **{Reprograma} - Semana 5 :** Projeto Guiado I - **SI**stema de gerenciamento de livros :books: <h1>
 
-## O que aprendi na Semana 05 do curso backend **{Reprograma}**? :heart_decoration: <h2>
+## O que aprendi na Semana 05 do curso backend **{Reprograma}**? :purple_heart: <h2>
 
 ### 01. Conteúdo :memo: <h3>
 * **Revisão geral**: Tipos de dados, Variáveis, Operadores, Funções, Estruturas condicionais, Estruturas de repetição, Objetos, Arrays, Métodos de iteração e Projeto integrador I ;
