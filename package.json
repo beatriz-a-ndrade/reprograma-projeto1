@@ -1,0 +1,23 @@
+{
+  "name": "reprograma-projeto1",
+  "version": "1.0.0",
+  "description": "[Semana 5] : Primeiro projeto guiado - SIstema de gerenciamento de livros",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatriz-a-ndrade/reprograma-projeto1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatriz-a-ndrade/reprograma-projeto1/issues"
+  },
+  "homepage": "https://github.com/beatriz-a-ndrade/reprograma-projeto1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
