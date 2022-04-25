@@ -41,6 +41,11 @@
 * **Métodos novos aprendidos:** Require/Question;
 * Projeto finalizado nesse repositório.
 
+### 06. **Projeto Guiado I - SIstema de gerenciamento de livros **: Sobre :books: <h3>
+* **Objetivo:** Criar um sistema onde deverá ser possível gerencias informações sobre os livros que já lemos e os livros que estão na nossa listinha de desejos;
+* **Requesitos:** Buscar livros por categoria/ Ordenar livros em ordem crescente por quantidade de páginas/ Listar livros recomendados/ Listar livros que ainda não foram lidos.
+* **Dados:** Criar dados mocados, um array de objetos livros com a modelagem determinada ( nome, categoria, paginas, recomenda, leu). 
+
 
 ![sensacaoDeDesespero](sensacaoDeDesespero.jpg)
 
